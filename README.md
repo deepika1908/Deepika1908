@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/deepika1911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepika1911" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/miss_deepika1911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mr_abhi318" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/miss_deepika1911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="miss_deepika1911" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -98,7 +98,7 @@
 
 <!-- snake -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deepika1908/Deepika1908/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deepika1908/Deepika1908/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Deepika1908/Deepika1908/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepika1908/deepika1908/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepika1908/deepika1908/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/deepika1908/deepika1908/output/github-snake.svg" />
 </picture>
